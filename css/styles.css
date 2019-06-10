@@ -1,0 +1,111 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+    color: #303030;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 1.6em;
+    margin-top: 0px;
+    margin-bottom: 10%;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-size: 0.8em;
+    margin-top: 0px;
+    margin-bottom: 10%;
+}
+
+h3 {
+    font-size: 1em;
+}
+
+ul {
+    list-style: none;
+    padding: 0px;
+    font-size: 0.8em;
+}
+
+a {
+    text-decoration: none;
+    color: #303030;
+}
+
+p, .contact-text {
+    font-size: 0.95em;
+    font-family: 'Montserrat', sans-serif;
+    color: #686767;
+}
+
+    header ul li {
+        background-color: #f0f0f0;
+        text-transform: uppercase;
+        margin: 2%
+    }
+
+
+.img-profile {
+    width: 70%;
+}
+
+.img-portfolio {
+    width: 100%;
+}
+
+main, header, footer {
+    text-align: center;
+    width: 90%;
+    margin: 0 auto;
+    padding: 10% 0;
+}
+
+.shaded-sections {
+    background-color: #e6e6e6;
+}
+
+.bottom-nav {
+    border-top: 1px solid #bdbdbd;
+    padding-top: 10%;
+    white-space: nowrap;
+}
+
+.bottom-nav li {
+    display: inline-block;
+    width: 50%;
+}
+
+
+.bottom-left {
+    text-align: left;
+}
+
+.bottom-right {
+    text-align: right;
+    text-transform: uppercase;
+}
+
+.contact-info {
+    padding-bottom: 5%;
+}
+
+.contact-text {
+    margin-right: 5%;
+}
+
+/* 
+--  Media Queries  --
+*/
+
+@media (min-width: 769px) {
+
+}
+
+@media (min-width: 1025px) {
+    
+}
