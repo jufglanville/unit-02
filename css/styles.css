@@ -317,7 +317,7 @@ a {
 
 @media (min-width: 1024px) {
     .container {
-        max-width: 1500px;
+        max-width: 1200px;
     }
     /* Top Nav Format */
     .top-nav h1 {
